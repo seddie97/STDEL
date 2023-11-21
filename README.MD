@@ -1,5 +1,8 @@
 STDEL是在TDSSA的基础上通过更新两个聚合公式达到提高真值准确率和降低女巫偷取奖励的目的
 
+作者信息：
+项目负责人：林德嘉；项目参与者：王玉玫、邹绍熙、苏国海、陈静静和范玉婷
+
 以下是TDSSA算法的介绍：
 
 TDSSA against Long-tail and have HS & LS
